@@ -118,7 +118,7 @@ $('.reviews__inner-slider').slick({
   infinite: true,
   slidesToShow: 1,
   slidesToScroll: 1,
-  arrows:false,
+  arrows:true,
   autoplay: true,
   autoplaySpeed: 1700,
   responsive: [
